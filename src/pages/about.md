@@ -13,7 +13,7 @@ I remember getting a Sinclair ZX Spectrum from my father and I loved playing wit
 
 I'm married to my beautiful Luba and we live in a small house in Monster. A couple of days per week we have her kids over and we have a Bull Terrier called Bogdan.
 
-If you want to contact me, this is my email address [email](mailto:olafluijks@proton.me)
+If you want to contact me, this is my email address olafluijks[at]proton[dot]me
 
 ![something](@assets/images/ZXSpectrum48k.jpg)
 
