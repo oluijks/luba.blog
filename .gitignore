@@ -12,7 +12,7 @@ yarn-error.log*
 pnpm-debug.log*
 
 # firebase
-.firebase
+.firebase/
 
 # environment variables
 .env
