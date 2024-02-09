@@ -15,6 +15,6 @@ I'm married to my beautiful Luba and we live in a small house in Monster. A coup
 
 If you want to contact me, this is my email address olafluijks[at]proton[dot]me
 
-![something](@assets/images/ZXSpectrum48k.jpg)
+![ZXSpectrum](@assets/images/ZXSpectrum48k.jpg)
 
 > Picture taken from Wikipedia [ZX Spectrum](https://en.wikipedia.org/wiki/ZX_Spectrum)
