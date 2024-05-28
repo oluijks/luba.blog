@@ -1,7 +1,7 @@
 ---
 author: Olaf Luijks
 pubDatetime: 2024-02-08T09:08:40.414Z
-modDatetime: 2024-02-08T09:08:40.414Z
+modDatetime: 2024-05-28T09:15:00.101Z
 title: New linux PC
 slug: new-linux-pc
 featured: false
@@ -25,3 +25,9 @@ Website where I bouhgt my new pc: [Laptop With Linux](https://laptopwithlinux.co
 ## My Setup
 
 This is without any doubt the best pc I've ever had. It is small, quiet and performs excellent. I will update this post soon with a photo and some more information of my setup, once I cleaned up my desk 😊
+
+## Update
+
+I've been running Fedora 39 for a while now and it is stable so no way I'm upgrading to 40. I mean, why should I? Everything works fine and I don't want to break anything. I don't experience any issues so I'm happy with it.
+
+I'm using `Timeshift` for system and `Pika Backup` for my home directory backups.
