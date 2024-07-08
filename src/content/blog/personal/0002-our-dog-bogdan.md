@@ -4,7 +4,7 @@ pubDatetime: 2024-02-08T08:04:04.459Z
 modDatetime: 2024-02-08T08:04:04.459Z
 title: Our dog Bogdan
 slug: our-dog-bogdan
-featured: true
+featured: false
 draft: false
 tags:
   - personal

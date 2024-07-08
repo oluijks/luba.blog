@@ -12,10 +12,12 @@
     "format": "prettier --write . --plugin=prettier-plugin-astro",
     "commit": "cz",
     "prepare": "husky install",
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "build:deploy": "pnpm run build && firebase deploy"
   },
   "dependencies": {
     "@astrojs/check": "^0.4.1",
+    "@astrojs/partytown": "^2.1.0",
     "@astrojs/rss": "^4.0.5",
     "@resvg/resvg-js": "^2.6.0",
     "astro": "^4.3.3",

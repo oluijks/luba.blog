@@ -8,7 +8,7 @@ featured: false
 draft: false
 tags:
   - programming
-description: Setting up a bun workspace
+description: Setting up a bun workspace (monorepo)
 ---
 
 ## Introduction

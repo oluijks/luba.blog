@@ -5,7 +5,7 @@ modDatetime: 2024-02-05T10:49:26.852Z
 title: Here I am - My first Astro blog post
 ogImage: "public/assets/olaf-luba.jpeg"
 slug: here-i-am
-featured: true
+featured: false
 draft: false
 tags:
   - personal

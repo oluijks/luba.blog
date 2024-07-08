@@ -1,3 +1,4 @@
+// import partytown from "@astrojs/partytown";
 import react from "@astrojs/react";
 import sitemap from "@astrojs/sitemap";
 import tailwind from "@astrojs/tailwind";
@@ -15,6 +16,11 @@ export default defineConfig({
     }),
     react(),
     sitemap(),
+    // partytown({
+    //   config: {
+    //     forward: ["dataLayer.push"],
+    //   },
+    // }),
   ],
   markdown: {
     remarkPlugins: [

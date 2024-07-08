@@ -1,7 +1,7 @@
 ---
 author: Olaf Luijks
 pubDatetime: 2024-05-28T09:22:08.471Z
-modDatetime: 2024-05-28T09:22:08.471Z
+modDatetime: 2024-06-21T09:01:53.530Z
 title: Zed Editor on Fedora
 slug: zed-editor-on-fedora
 featured: false
@@ -75,3 +75,11 @@ git pull && cargo build --release
 That's it, enjoy Zed! 😄
 
 PS: I forgot to mention that although Zed works fine on Fedora using Wayland, it is recommended to use it with Xorg for the best experience. For example resizing the window is not working properly on Wayland, but that seems to be a known issue and will be fixed in a future release hopefully. I switched to Xorg and to be honest I don't notice any difference.
+
+## Update
+
+You can now just install it by running 😄
+
+```bash
+./script/install-linux
+```

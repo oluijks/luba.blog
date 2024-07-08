@@ -9,7 +9,7 @@ draft: false
 tags:
   - music
   - poetry
-description: Change the description
+description: A song I love - Jethro Tull - Nothing to Say
 ---
 
 I remember when I was around 10 years old my father had this album and told me the singer also played the flute. He played that record a lot but I don't remember liking the music back then. Until I found this song of Jethro Tull, Nothing to Say and I think it is one of the best songs ever. Funny thing is that I always thought the guy with the flute was named Jethro but it turns out he named his band after a agriculturist from the 17th century.

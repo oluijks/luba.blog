@@ -9,7 +9,7 @@ draft: false
 tags:
   - programming
   - linux
-description: Virtual Machine Manager - Trying out any linux distro with Virtual Machine Manager
+description: Trying out any linux distro with Virtual Machine Manager
 ---
 
 ## Trying out any linux distro with Virtual Machine Manager
