@@ -21,6 +21,6 @@ About 6 months ago I made a starter project called "Golang Angular Starter", you
 
 My new idea is about the same like the Golang starter but with a different tech stack: Rust for the backend (REST Api: Rapinsel) and SvelteKit for the frontend (Spleen). Perhaps you already guessed it: it's another writing app. But more on that later.
 
-I've been planning to learn Rust for a long time and this project is a nice motivation to actually make my hands dirty, the same goes for Svelte. I've been playing with SvelteKit for a few months now and I feel confidant I can make something cool with this awesome framework.
+I've been planning to learn Rust for a long time and this project is a nice motivation to actually make my hands dirty, the same goes for Svelte. I've been playing with SvelteKit for a few months now and I feel confidant I can make something cool with this awesome framework. I will also use Postgres to store the data using Docker.
 
 I'll make an seperate blog section where you can read all about the progress and I will take you with me on this little journey.

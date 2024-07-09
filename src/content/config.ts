@@ -10,7 +10,7 @@ const blog = defineCollection({
       modDatetime: z.date().optional().nullable(),
       title: z
         .string()
-        .max(65, { message: "Title must be 64 characters or less" }),
+        .max(67, { message: "Title must be 64 characters or less" }),
       featured: z.boolean().optional(),
       draft: z.boolean().default(true).optional(),
       tags: z.array(z.string()).default(["others"]),
