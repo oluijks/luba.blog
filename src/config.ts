@@ -3,11 +3,11 @@ import type { Site, SocialObjects } from "./types";
 export const SITE: Site = {
   website: "https://luba-blog.web.app/", // replace this with your deployed domain
   author: "Olaf Luijks",
-  desc: "My personal blog about poetry, paleontology, art, programming, movies, music, our Bull Terrier, the Roman Empire, and cosmology",
+  desc: "My personal blog about me, my wife and my family, programming, paleontology, art, rust, poetry, movies, music, my dog, svelte, the roman empire, drumming, cosmology and much more",
   title: "luba.blog",
   ogImage: "website-screenshot.jpg", // TODO
   lightAndDarkMode: true,
-  postPerPage: 7,
+  postPerPage: 5,
   scheduledPostMargin: 1 * 60 * 1000, // 1 minute
 };
 

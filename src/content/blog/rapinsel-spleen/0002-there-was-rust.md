@@ -3,7 +3,7 @@ author: Olaf Luijks
 pubDatetime: 2024-07-08T21:51:24.845Z
 modDatetime: 2024-07-08T21:54:43.438Z
 title: Side-Project Rapinsel-Spleen - There was Rust (Part 2)
-slug: sprs-part1-there-was-rust
+slug: sprs-part2-there-was-rust
 featured: false
 draft: false
 tags:

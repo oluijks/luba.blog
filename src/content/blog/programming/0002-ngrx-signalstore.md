@@ -29,7 +29,7 @@ The first paragraph of the documentation states:
 
 > NgRx SignalStore is a fully-featured state management solution that offers a robust way to manage application state. With its native support for Signals, it provides the ability to define stores in a clear and declarative manner. The simplicity and flexibility of SignalStore, coupled with its opinionated and extensible design, establish it as a versatile solution for effective state management in Angular.
 
-Some keywords that I think are important are: `fully-featured`, `robust`, `declarative, `simplicity`, and `opinionated`.
+Some keywords that I think are important are: `fully-featured`, `robust`, `declarative`, `simplicity`, and `opinionated`.
 
 A lot of people don't like opinionated but I say: yeah sure, do it their way but it is well tested, it works and it works well. I made some small components with it and found it easy to understand and use and if you are an RxJS lover they offer you a rxjs-interop plugin to manage side effects and have your way with all the operators you want to throw at it.
 
