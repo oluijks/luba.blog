@@ -27,14 +27,14 @@ I'll make an seperate blog section where you can read all about the progress and
 
 So far there are 6 posts about it:
 
-[And the data was fetched with sqlx (Part 6)](/posts/sprs-part6-and-the-data-was-fetched-with-sqlx/)
+[And the data was fetched with sqlx (6)](/posts/sprs-part6-and-the-data-was-fetched-with-sqlx/)
 
-[For the law was given by Make (Part 5)](/posts/sprs-part5-and-the-word-was-given-by-automation/)
+[For the law was given by Make (5)](/posts/sprs-part5-and-the-word-was-given-by-automation/)
 
-[To bear witness of the Test (Part 4)](/posts/sprs-part4-and-the-test-shineth-in-darkness/)
+[To bear witness of the Test (4)](/posts/sprs-part4-and-the-test-shineth-in-darkness/)
 
-[Let there be dependencies (Part 3)](/posts/sprs-part3-let-there-be-dependencies/)
+[Let there be dependencies (3)](/posts/sprs-part3-let-there-be-dependencies/)
 
-[There was Rust (Part 2)](/posts/sprs-part2-there-was-rust/)
+[There was Rust (2)](/posts/sprs-part2-there-was-rust/)
 
-[In the beginning (Part 1)](/posts/sprs-part1-in-the-beginning/)
+[In the beginning (1)](/posts/sprs-part1-in-the-beginning/)
