@@ -1,7 +1,7 @@
 ---
 author: Olaf Luijks
 pubDatetime: 2024-07-08T20:35:05.307Z
-modDatetime: 2024-07-08T20:35:05.307Z
+modDatetime: 2024-07-10T15:02:08.145Z
 title: My new side-project called Rapinsel
 slug: new-side-project-called-rapinsel
 featured: true
@@ -24,3 +24,17 @@ My new idea is about the same like the Golang starter but with a different tech 
 I've been planning to learn Rust for a long time and this project is a nice motivation to actually make my hands dirty, the same goes for Svelte. I've been playing with SvelteKit for a few months now and I feel confidant I can make something cool with this awesome framework. I will also use Postgres to store the data using Docker.
 
 I'll make an seperate blog section where you can read all about the progress and I will take you with me on this little journey.
+
+So far there are 6 posts about it:
+
+[And the data was fetched with sqlx (Part 6)](/posts/sprs-part6-and-the-data-was-fetched-with-sqlx/)
+
+[For the law was given by Make (Part 5)](/posts/sprs-part5-and-the-word-was-given-by-automation/)
+
+[To bear witness of the Test (Part 4)](/posts/sprs-part4-and-the-test-shineth-in-darkness/)
+
+[Let there be dependencies (Part 3)](/posts/sprs-part3-let-there-be-dependencies/)
+
+[There was Rust (Part 2)](/posts/sprs-part2-there-was-rust/)
+
+[In the beginning (Part 1)](/posts/sprs-part1-in-the-beginning/)
