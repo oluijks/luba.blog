@@ -196,4 +196,4 @@ pub mod health;
 
 Damn boy! We are learning and having fun, well I am I hope you are having fun as well.
 
-In the next chapter we will be setting up a docker for a postgres database and use it within our program, installing sqlx, making database migrations and make a new endpoint to fetch data from the database: exciting stuff my dudes!
+In the next chapters we will be setting up a docker for a postgres database and use it within our program, installing sqlx, making database migrations and make a new endpoint to fetch data from the database: exciting stuff my dudes!
