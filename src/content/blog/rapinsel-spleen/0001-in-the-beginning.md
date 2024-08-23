@@ -2,7 +2,7 @@
 author: Olaf Luijks
 pubDatetime: 2024-07-08T21:14:25.318Z
 modDatetime: 2024-07-08T21:14:25.318Z
-title: Side-Project Rapinsel-Spleen - In the beginning (Part 1)
+title: Rapinsel-Spleen - In the beginning (Part 1)
 slug: sprs-part1-in-the-beginning
 featured: false
 draft: false

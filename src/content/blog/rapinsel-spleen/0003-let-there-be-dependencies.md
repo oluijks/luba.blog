@@ -2,7 +2,7 @@
 author: Olaf Luijks
 pubDatetime: 2024-07-09T08:30:52.187Z
 modDatetime: 2024-07-09T08:30:52.187Z
-title: Side-Project Rapinsel-Spleen - Let there be dependencies (Part 3)
+title: Rapinsel-Spleen - Let there be dependencies (P3)
 slug: sprs-part3-let-there-be-dependencies
 featured: false
 draft: false

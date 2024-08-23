@@ -2,7 +2,7 @@
 author: Olaf Luijks
 pubDatetime: 2024-07-09T18:43:33.187Z
 modDatetime: 2024-07-09T18:43:33.187Z
-title: Side-Project Rapinsel-Spleen - For the law was given by Make (Part 5)
+title: Rapinsel-Spleen - For the law was given by Make (P5)
 slug: sprs-part5-and-the-word-was-given-by-automation
 featured: false
 draft: false

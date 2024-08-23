@@ -7,7 +7,7 @@ export const SITE: Site = {
   title: "luba.blog",
   ogImage: "website-screenshot.jpg", // TODO
   lightAndDarkMode: true,
-  postPerPage: 5,
+  postPerPage: 9,
   scheduledPostMargin: 1 * 60 * 1000, // 1 minute
 };
 

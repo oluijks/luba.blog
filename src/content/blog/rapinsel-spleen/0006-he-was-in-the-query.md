@@ -2,7 +2,7 @@
 author: Olaf Luijks
 pubDatetime: 2024-07-09T18:58:25.897Z
 modDatetime: 2024-07-09T18:58:25.897Z
-title: Side-Project Rapinsel-Spleen - And the data was fetched with sqlx (Part 6)
+title: Rapinsel-Spleen - And the data was fetched with sqlx (P6)
 slug: sprs-part6-and-the-data-was-fetched-with-sqlx
 featured: false
 draft: false

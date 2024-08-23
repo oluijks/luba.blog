@@ -2,7 +2,7 @@
 author: Olaf Luijks
 pubDatetime: 2024-07-09T09:08:51.324Z
 modDatetime: 2024-07-09T09:08:51.324Z
-title: Side-Project Rapinsel-Spleen - To bear witness of the Test (Part 4)
+title: Rapinsel-Spleen - To bear witness of the Test (P4)
 slug: sprs-part4-and-the-test-shineth-in-darkness
 featured: false
 draft: false
