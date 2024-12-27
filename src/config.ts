@@ -1,7 +1,7 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "https://luba-blog.web.app/", // replace this with your deployed domain
+  website: "https://blog.luba.dev/", // replace this with your deployed domain
   author: "Olaf Luijks",
   desc: "My personal blog about me, my wife and my family, programming, paleontology, art, rust, poetry, movies, music, my dog, svelte, the roman empire, drumming, cosmology and much more",
   title: "luba.blog",

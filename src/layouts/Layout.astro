@@ -3,7 +3,7 @@ import { LOCALE, SITE } from "@config";
 import "@styles/base.css";
 import { ViewTransitions } from "astro:transitions";
 
-const googleSiteVerification = "4vYYgaRNOKbM8fCfUDvtODq6_IuXahxdZ6iyG2zlMvE";
+const googleSiteVerification = "1yHb__7C5BBrO75zc9xjFfzhLQSHIXSHGO9lYrcCh88";
 
 export interface Props {
   title?: string;
@@ -127,6 +127,16 @@ const socialImageURL = new URL(
     </script> -->
 
     <ViewTransitions />
+
+    <script is:inline>
+      // Firebase hosting domain redirect
+      if (
+        window.location.hostname === "luba-blog.web.app" ||
+        window.location.hostname === "luba-blog.firebaseapp.com"
+      ) {
+        window.location.href = "https://blog.luba.dev";
+      }
+    </script>
 
     <script is:inline src="/toggle-theme.js"></script>
   </head>
