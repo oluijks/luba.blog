@@ -4,7 +4,7 @@ pubDatetime: 2024-02-05T11:36:08.419Z
 modDatetime: 2024-02-05T11:36:08.419Z
 title: First glance on Astro and AstroPaper
 slug: first-glance-on-astro-and-astropaper
-featured: true
+featured: false
 draft: false
 tags:
   - astro

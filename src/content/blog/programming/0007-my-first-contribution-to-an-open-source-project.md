@@ -4,7 +4,7 @@ pubDatetime: 2024-07-08T20:28:54.916Z
 modDatetime: 2024-07-08T20:28:54.916Z
 title: My first contribution to an open-source project
 slug: my-first-contribution-to-an-open-source-project
-featured: true
+featured: false
 draft: false
 tags:
   - personal
