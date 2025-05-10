@@ -4,7 +4,7 @@ pubDatetime: 2024-07-08T20:35:05.307Z
 modDatetime: 2024-07-10T15:02:08.145Z
 title: My new side-project called Rapinsel
 slug: new-side-project-called-rapinsel
-featured: true
+featured: false
 draft: false
 tags:
   - personal

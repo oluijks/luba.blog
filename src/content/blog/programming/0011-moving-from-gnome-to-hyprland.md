@@ -1,7 +1,7 @@
 ---
 author: Olaf Luijks
 pubDatetime: 2024-12-30T11:04:19.091Z
-modDatetime: 2024-12-30T11:04:19.091Z
+modDatetime: 2025-05-10T21:52:35.055Z
 title: Moving from GNOME to Hyprland
 slug: moving-from-gnome-to-hyprland
 featured: true
@@ -9,17 +9,53 @@ draft: false
 tags:
   - programming
   - personal
-description: Moving from GNOME to Hyprland
+description: Thinking of switching from GNOME to Hyprland? Discover why I moved to this dynamic Wayland tiling compositor, how it compares to GNOME, and how to get started.
 ---
 
-I've been using GNOME for a long time now and I've always been happy with it. It's a great desktop environment and I've never had any major issues with it. However, recently I've been feeling like I want to try something new. I've been hearing a lot of good things about Hyprland, so I decided to give it a try.
+After years of using GNOME, I recently made the switch to Hyprland, a modern Wayland-based tiling window manager. In this post, I'll share why I made the transition, my first impressions, and some setup tips if you're considering making the same move.
 
-I started out searching on YouTube for some videos and one of the first videos I watched was https://www.youtube.com/watch?v=siy2vL94yd0 which basically is a explanation on his dotfiles to get you up and running with Hyprland. I followed the instructions and installed Hyprland on my pc and boy was I impressed. It's well documented and easy to install, configure and add more plugins if you like.
+## Why I Left GNOME
 
-Visit his repo at https://github.com/mylinuxforwork/dotfiles and give it a try, the maintainer has put in a lot of work and he deserves a star. It's really easy to install and it looks amazing. I've been using it for a few days now and I'm really happy with it. It's fast, responsive and looks great. I'm definitely going to stick with it for a while.
+I've always appreciated GNOME for its polish and consistency, but over time it started to feel heavy and rigid. Customization options were limited, and extensions—while helpful—were often brittle after updates. I began looking for a lightweight, highly configurable Linux desktop environment that gave me more control.
 
-If you'd like to see how I set up my Hyprland see my own dotfiles:
+## Discovering Hyprland: A Dynamic Tiling Compositor
 
-https://github.com/oluijks/dotfiles
+That's when I found Hyprland, a dynamic tiling Wayland compositor. It immediately caught my attention for its slick animations, modular configuration, and support for modern workflows. Compared to other tiling window managers like i3 or Sway, Hyprland felt more modern and visually refined.
+
+## First Impressions and Configuration
+
+The initial experience was surprisingly smooth. Despite being under active development, Hyprland worked well out of the box. The documentation is solid, and I found plenty of community dotfiles to draw inspiration from—including [my own config here](https://github.com/mylinuxforwork/dotfiles).
+
+Here's what I set up early on:
+
+- Rofi for launching applications
+- Waybar for the status bar
+- Foot terminal
+- Tmux for session management
+
+Everything runs on Arch Linux with Hyprland installed from the AUR.
+
+## Hyprland vs GNOME: What's Better?
+
+| _Feature_       | _GNOME_                  | _Hyprland_                   |
+| --------------- | ------------------------ | ---------------------------- |
+| Performance     | Moderate                 | Fast and lightweight         |
+| Customizability | Limited (via extensions) | Extensive (via config files) |
+| Tiling Support  | Add-on                   | Native and dynamic           |
+| Aesthetic       | Clean, but static        | Sleek, animated, minimal     |
+
+Overall, **Hyprland offers more flexibility, performance, and fun**. It brings joy back into configuring your desktop, something I missed with GNOME.
+
+## Tips for Switching to Hyprland
+
+If you're ready to move from GNOME to Hyprland, keep in mind:
+
+- Expect a learning curve, especially if you're new to tiling window managers.
+- Read the [official wiki](https://wiki.hyprland.org/)—it's well-maintained and incredibly helpful.
+- Don't be afraid to tinker. Hyprland rewards customization.
+
+## Final Thoughts
+
+Switching from GNOME to Hyprland has been a refreshing experience. If you're a Linux user craving more control and a sleek tiling workflow, **Hyprland is worth a serious look**.
 
 ![Hyprland Desktop Screenshot](@assets/images/gnome-to-hyprland.jpg)
