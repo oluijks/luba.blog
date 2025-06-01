@@ -4,7 +4,7 @@ pubDatetime: 2024-12-30T11:04:19.091Z
 modDatetime: 2025-05-10T21:52:35.055Z
 title: Moving from GNOME to Hyprland
 slug: moving-from-gnome-to-hyprland
-featured: true
+featured: false
 draft: false
 tags:
   - programming

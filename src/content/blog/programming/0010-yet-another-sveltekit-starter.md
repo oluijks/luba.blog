@@ -5,7 +5,7 @@ modDatetime: 2024-12-28T07:56:47.940Z
 title: Yet Another SvelteKit Starter
 ogImage: "public/assets/yass-mobile.png"
 slug: yet-another-sveltekit-starter
-featured: true
+featured: false
 draft: false
 tags:
   - programming
