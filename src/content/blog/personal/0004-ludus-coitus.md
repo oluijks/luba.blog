@@ -9,7 +9,7 @@ draft: false
 tags:
   - poetry
   - personal
-description: Ludus coitus
+description: Ludus coitus - a draft collection of deeply personal poems
 ---
 
 ## Table of contents
