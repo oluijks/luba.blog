@@ -9,12 +9,12 @@ draft: false
 tags:
   - programming
   - personal
-description: Learn how I built a fast, SEO-ready website for a drumming teacher using TanStack Start, Tailwind CSS, and Convex—ideal for modern, maintainable web projects
+description: Learn how I built a fast, SEO-ready website for a drumming teacher using TanStack Start, Tailwind CSS, and Convex, ideal for modern, maintainable web projects
 ---
 
 Recently, I built a new website for my drumming teacher, Ron van Elswijk. The goal was to create a fast, modern, and maintainable platform that would serve as both a personal portfolio and an entry point for students. It's currently in a test phase, but the core tech is solid and ready to scale.
 
-In this post, I'll walk through the tech stack I chose—TanStack Start, Tailwind CSS, and Convex—and share some of the architectural decisions behind the project.
+In this post, I'll walk through the tech stack I chose, TanStack Start, Tailwind CSS, and Convex, and share some of the architectural decisions behind the project.
 
 ---
 
@@ -49,7 +49,7 @@ For the backend, I integrated Convex, a reactive serverless database. While the 
 - Booking or lesson scheduling
 - A content management interface
 
-Convex is great because it handles data syncing, auth, and real-time updates out of the box—all without writing REST or GraphQL endpoints.
+Convex is great because it handles data syncing, auth, and real-time updates out of the box, all without writing REST or GraphQL endpoints.
 
 ## 🔐 Type Safety and Maintainability
 
@@ -78,4 +78,4 @@ This has been a fun and rewarding project, and I'm excited to iterate further.
 
 ## ⭐ Follow the Project
 
-Once the site goes live, I'll publish the full source code on GitHub for others to explore, fork, or contribute to. If you're interested in modern, full-stack web development with TanStack, Tailwind, and Convex, stay tuned—and don’t forget to star the repo when it drops!
+Once the site goes live, I'll publish the full source code on GitHub for others to explore, fork, or contribute to. If you're interested in modern, full-stack web development with TanStack, Tailwind, and Convex, stay tuned, and don’t forget to star the repo when it drops!

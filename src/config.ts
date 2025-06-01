@@ -92,9 +92,9 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "TikTok",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://www.tiktok.com/@oluijks",
     linkTitle: `${SITE.title} on TikTok`,
-    active: false,
+    active: true,
   },
   {
     name: "CodePen",
@@ -118,7 +118,7 @@ export const SOCIALS: SocialObjects = [
     name: "Reddit",
     href: "https://www.reddit.com/user/oluijks",
     linkTitle: `${SITE.title} on Reddit`,
-    active: true,
+    active: false,
   },
   {
     name: "Skype",

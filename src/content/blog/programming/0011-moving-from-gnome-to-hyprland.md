@@ -16,7 +16,7 @@ After years of using GNOME, I recently made the switch to Hyprland, a modern Way
 
 ## Why I Left GNOME
 
-I've always appreciated GNOME for its polish and consistency, but over time it started to feel heavy and rigid. Customization options were limited, and extensions—while helpful—were often brittle after updates. I began looking for a lightweight, highly configurable Linux desktop environment that gave me more control.
+I've always appreciated GNOME for its polish and consistency, but over time it started to feel heavy and rigid. Customization options were limited, and extensions, while helpful, were often brittle after updates. I began looking for a lightweight, highly configurable Linux desktop environment that gave me more control.
 
 ## Discovering Hyprland: A Dynamic Tiling Compositor
 
@@ -24,7 +24,7 @@ That's when I found Hyprland, a dynamic tiling Wayland compositor. It immediatel
 
 ## First Impressions and Configuration
 
-The initial experience was surprisingly smooth. Despite being under active development, Hyprland worked well out of the box. The documentation is solid, and I found plenty of community dotfiles to draw inspiration from—including [my own config here](https://github.com/mylinuxforwork/dotfiles).
+The initial experience was surprisingly smooth. Despite being under active development, Hyprland worked well out of the box. The documentation is solid, and I found plenty of community dotfiles to draw inspiration from, including [my own config here](https://github.com/mylinuxforwork/dotfiles).
 
 Here's what I set up early on:
 
@@ -51,7 +51,7 @@ Overall, **Hyprland offers more flexibility, performance, and fun**. It brings j
 If you're ready to move from GNOME to Hyprland, keep in mind:
 
 - Expect a learning curve, especially if you're new to tiling window managers.
-- Read the [official wiki](https://wiki.hyprland.org/)—it's well-maintained and incredibly helpful.
+- Read the [official wiki](https://wiki.hyprland.org/), it's well-maintained and incredibly helpful.
 - Don't be afraid to tinker. Hyprland rewards customization.
 
 ## Final Thoughts
