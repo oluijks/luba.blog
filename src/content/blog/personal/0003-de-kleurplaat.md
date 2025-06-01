@@ -5,7 +5,7 @@ modDatetime: 2024-05-26T10:52:20.414Z
 title: Kleurplaat
 slug: kleurplaat
 featured: false
-draft: false
+draft: true
 tags:
   - personal
   - poetry
